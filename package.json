@@ -1,0 +1,19 @@
+{
+  "name": "back-end_with_express_node_and_react",
+  "version": "1.0.0",
+  "description": "Projeto de Bloco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronaldotj2002/back-end_with_express_node_and_react.git"
+  },
+  "author": "Ronaldo Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronaldotj2002/back-end_with_express_node_and_react/issues"
+  },
+  "homepage": "https://github.com/ronaldotj2002/back-end_with_express_node_and_react#readme"
+}
