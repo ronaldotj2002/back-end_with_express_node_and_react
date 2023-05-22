@@ -1,0 +1,18 @@
+[
+    {
+        "id": "4b2201dc-b928-452a-8b87-d15fdd5af222",
+        "data": "2023-05-19",
+        "tipoDespesa": "Transporte",
+        "NomeDespesa": "uber",
+        "Valor": 28.50,
+        "descricao": "Transporte de ida ao aniversário de um amigo"
+    },
+    {
+        "id": "67b8151c-98c0-48f0-b39b-fda73e4efad0",
+        "data": "2023-04-19",
+        "tipoDespesa": "Alimentação",
+        "NomeDespesa": "Pizza",
+        "Valor": 80.00,
+        "descricao": "Pizza, lanche com a família"
+    }
+]
